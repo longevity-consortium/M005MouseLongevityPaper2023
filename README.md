@@ -1,5 +1,5 @@
 # Proteomic changes induced by longevity promoting interventions in mice
-Code for processing and analyzing the manuscript "Proteomic changes induced by longevity promoting interventions in mice" (2023).
+Code for processing and analyzing data described in the manuscript "Proteomic changes induced by longevity promoting interventions in mice" (2023).
 
 
 ## File order:
